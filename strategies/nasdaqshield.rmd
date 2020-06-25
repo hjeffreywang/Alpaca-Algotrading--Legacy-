@@ -1,0 +1,3 @@
+#Track ETFS using nasdaq 100
+#short when minus di
+#buy when plusdi
