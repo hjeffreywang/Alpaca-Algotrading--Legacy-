@@ -1,0 +1,10 @@
+alpaca-trade-api==0.46
+TA-lib==0.4.17
+pickleshare==0.7.5
+pytz=2019.3
+numpy==1.18.2
+pandas==1.0.3
+pandocfilters==1.4.2
+webencodings==0.5.1
+websocket-client==0.57.0
+websockets==8.1
